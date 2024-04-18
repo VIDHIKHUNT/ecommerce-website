@@ -1,0 +1,202 @@
+/*header start*/
+
+
+/*main-banner*/
+
+/*content start*/
+
+/*about us*/
+.card img{
+  border-top-left-radius: 30%;
+}
+/*scroll start*/
+.sc-img{
+	background-image:url('https://harbison.org.au/wp-content/uploads/2020/07/gift-553133_1920.jpg');
+	background-attachment:fixed;
+	
+	height: 400px;
+	background-repeat:no-repeat;
+	position:relative;
+	
+}
+
+.sc-intro h2{
+	font-size:28px;
+	letter-spacing:.5px;
+	margin-bottom:10px;
+	font-family:Poppins,sans-serif;
+    font-weight:600;
+    line-height:1.5;
+	margin-top:0;
+	color:#fff;
+}
+.sc-intro p{
+ 	color:rgb(255,255,255);
+    line-height:1.6;	
+	margin-bottom:1px;
+    margin-top:0;
+	font-family:Roboto,sans-serif;
+    font-size:15px;
+    overflow-x:hidden;
+}
+
+.s-icon{
+	font-size:100px;
+	font-weight:10;
+	margin-top:20px;
+}
+.bg-overly{
+    
+    bottom:0;
+    height:100%;
+    left:0;
+    position:absolute;
+    right:0;
+    top:0;
+    width:100%;
+}
+/*scroll end*/
+/*new arrivals */
+.icon img{
+    transition: all 1sec linear;
+}
+.icon img:hover{
+    transform: scale(1.1);
+}
+/*footer start*/
+.bg-footer{
+	width:100%;
+	height:800px;
+    position:relative;
+	background-color:#202942;
+	color:white;
+	
+}
+.py-5{
+	margin:20px;
+}
+.f-icon{
+	font-size:48px;
+}
+.f-btn{
+	border-radius:6px;
+    font-size:16px;
+    letter-spacing:.5px;
+    outline:none;
+    padding:8px 20px;
+    text-decoration:none;
+	background-color:#2a52c3;
+	color:#fff;
+	border:1px solid #2a52c3;
+	transition:all 0.5s ease;
+}
+.f-btn:hover{
+	background-color: #214099;
+    border-color: #214099;
+    color: #fff;
+}
+.ft-intro{
+	margin-left:10px;
+}
+.f-img{
+	margin-left:30px;
+}
+.ft-intro h2{
+	font-weight:700;
+	color:#f8f9fc;
+	margin-bottom:.25rem;
+	font-size:24px;
+	font-family:Poppins,sans-serif;
+	line-height:1.5;
+}
+.ft-intro span{
+	color:#ffffff80;
+	margin-bottom:0;
+	line-height:1.6;
+	margin-top:0;
+	font-family:Roboto,sans-serif;
+    font-size:15px;
+}
+
+.f-border{
+	border-top:1px solid grey;
+	margin:20px;
+}
+.f-sec p{
+	margin-top:20px;
+	line-height:1.6;
+	margin-bottom:1rem;
+	color:#adb5bd;
+	font-family:Roboto,sans-serif;
+    font-size:15px;
+	
+}
+.fo-icon{
+	justify-between:space-around;
+}
+.ft-icon{
+	border:1px solid #283353;
+    color:#adb5bd;
+}
+li{
+	color:#adb5bd;
+	font-family:Roboto,sans-serif;
+    font-size:15px;
+	margin-left:10px;
+}
+li h2{
+	color:#f8f9fc;
+}
+.f-sec2{
+	color:#f8f9fc;
+	font-family:Poppins,sans-serif;
+    font-weight:600;
+    line-height:1.5;
+	font-size:18px;
+}
+.bt1{
+	border-radius:6px;
+    font-size:16px;
+    letter-spacing:.5px;
+    outline:none;
+    padding:8px 20px;
+	color:#2a52c3;
+	background-color:rgba(42,82,195,.05);
+	transition:all 0.5s ease;
+}
+.bt1:hover{
+	background-color: #214099;
+    border-color: #214099;
+    color: #fff;
+}
+.bt2{
+	border-radius:6px;
+    font-size:16px;
+    letter-spacing:.5px;
+    outline:none;
+    padding:8px 20px;
+	background-color:#2a52c3;
+    border:1px solid #2a52c3;
+	color:#fff;
+	transition:all 0.5s ease;
+}
+.bt2:hover{
+	background-color: #214099;
+    border-color: #214099;
+    color: #fff;
+}
+.f-sec2 span{
+	font-family:Roboto,sans-serif;
+    font-size:15px;
+	color:#adb5bd;
+}
+.l-img{
+	margin-top:20px;
+}
+.f-p{
+	text-align:center;
+	color:#adb5bd;
+	font-family:Roboto,sans-serif;
+    font-size:15px;
+}
+/*footer end*/
